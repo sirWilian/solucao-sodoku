@@ -6,9 +6,8 @@ algum compilador pascal em seu computador.
 É recomendado o "free pascal", e para instalá-lo,
 em sistemas baseados no debian, é algo simples:
 
->    1 - abra um terminal (Ctrl + Alt + T);
-
->    2 - digite "sudo apt install fpc"
+> 1. abra um terminal (Ctrl + Alt + T);
+> 2. digite "sudo apt install fpc";
 
 para compilar o programa você precisará rodar o
 seguinte comando:
